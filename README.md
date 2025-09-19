@@ -8,4 +8,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/Pandiselvam400/LeetCode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Pandiselvam400/LeetCode/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/Pandiselvam400/LeetCode/tree/master/0627-swap-salary) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Pandiselvam400/LeetCode/tree/master/0067-add-binary) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Pandiselvam400/LeetCode/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Pandiselvam400/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Pandiselvam400/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->

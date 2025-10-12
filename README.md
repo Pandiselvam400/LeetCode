@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-salary](https://github.com/Pandiselvam400/LeetCode/tree/master/0627-swap-salary) |
 | [1258-article-views-i](https://github.com/Pandiselvam400/LeetCode/tree/master/1258-article-views-i) |
 | [1301-reformat-department-table](https://github.com/Pandiselvam400/LeetCode/tree/master/1301-reformat-department-table) |
+| [1390-average-selling-price](https://github.com/Pandiselvam400/LeetCode/tree/master/1390-average-selling-price) |
 ## Math
 |  |
 | ------- |
